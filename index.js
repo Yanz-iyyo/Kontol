@@ -26,8 +26,8 @@ const nestid = '5';
 const egg = '15';
 const loc = '1';
 const gmailadmin = 'syah@gmail.com'; // Admin email that won't be deleted
-const telegramBotToken = '7729697812:AAHuYOvJ0b6wAXrYaaSxSKV3wzTmMwM8Vto';
-const adminTelegramId = '8385876381';
+const telegramBotToken = '8308507868:AAFRzq1qgbBcdviJ65_0z-GWQhuuw3e1BcM';
+const adminTelegramId = '7464851361';
 
 // In-memory storage
 let servers = [];
